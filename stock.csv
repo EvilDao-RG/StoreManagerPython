@@ -1,0 +1,51 @@
+ID,Nombre,Departamento,Precio,Existencia
+0,Audifonos Sennheiser,Audio,799,3
+1,Audifonos inalambricos SONY,Audio,1299,2
+2,Audifonos Xiaomi,Audio,489,3
+3,Audifonos Firstop,Audio,359,7
+4,Audifonos HyperX Stinger,Audio,1399,3
+5,Audifonos HyperX II,Audio,949,5
+6,Audifonos ASTRO A10,Audio,1999,4
+7,Audifonos Turtle Beach,Audio,599,3
+8,Audifonos Razer,Audio,1099,4
+9,Bocina BOSE,Audio,2999,2
+10,Bocina JBL,Audio,749,6
+11,Bocina SONY,Audio,1149,8
+12,Amazon EchoDot,Audio,849,11
+13,Cable Auxiliar,Audio,249,8
+14,Blu-Ray SONY,Multimedia,1099,4
+15,Blu Ray 4K ,Multimedia,3999,3
+16,Blu-Ray LG,Multimedia,1099,7
+17,Smart TV 32pu SONY ,Multimedia,5499,9
+18,Smart TV 49pul SONY,Multimedia,11599,12
+19,Android 55pul TVSony,Multimedia,17799,15
+20,Smart TV 50pul Samsung,Multimedia,9899,10
+21,Smart TV 32pul Samsung,Multimedia,4599,5
+22,Smart 70pul TVSamsung,Multimedia,20599,7
+23,Smart 43pul LG,Multimedia,8999,7
+24,Smart TV 55pul LG,Multimedia,11499,4
+25,NanoCell TV LG,Multimedia,12999,6
+26,Cable HDMI UGREEN,Multimedia,359,7
+27,Cable HDMI Rankie,Multimedia,299,12
+28,iPhone XS,Smartphone,11999,4
+29,iPhone XR,Smartphone,13599,5
+30,iPhone 11,Smartphone,19999,4
+31,Huawei Nova 5T,Smartphone,14759,5
+32,Huawei P40 ,Smartphone,17999,3
+33,Samsung Galaxy S20,Smartphone,20999,4
+34,Samsung Falaxy Note 20,Smartphone,26899,3
+35,Cargador Tipo C,Smartphone,359,20
+36,Cargador Micro-USB,Smartphone,199,13
+37,XBOX ONE,Videojuegos,5999,7
+38,XBOX ONE S,Videojuegos,4999,9
+39,XBOX ONE X,Videojuegos,10399,5
+40,Control XBOX,Videojuegos,1500,13
+41,Control Elite XBOX,Videojuegos,3899,4
+42,Tarjeta XBOX $1000MXN,Videojuegos,1000,15
+43,Suscripcion GOLD 3 meses,Videojuegos,299,12
+44,PlayStation 4,Videojuegos,8699,10
+45,PlayStation 4 Pro,Videojuegos,10999,6
+46,Dualshock 4,Videojuegos,1499,19
+47,Base de carga PS4,Videojuegos,899,0
+48,PS Plus 12 meses,Videojuegos,1030,14
+49,Tarjeta PSN $50USD,Videojuegos,1200,18

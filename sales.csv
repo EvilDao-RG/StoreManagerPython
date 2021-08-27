@@ -1,0 +1,51 @@
+ID Producto,Nombre,V0,V1,V2,V3,V4,    V5,V6,V7,V8,V9,Total
+0,Audifonos Sennheiser,3,2,4,7,4,10,2,9,4,2,47
+1,Audifonos inalambricos SONY,2,1,6,10,2,8,1,7,6,3,46
+2,Audifonos Xiaomi,4,4,1,6,4,7,4,5,5,8,48
+3,Audifonos Firstop,6,5,3,7,6,9,3,4,2,4,49
+4,Audifonos HyperX Stinger,4,3,1,5,4,3,2,8,1,2,33
+5,Audifonos HyperX II,1,2,2,5,2,4,1,3,2,4,26
+6,Audifonos ASTRO A10,2,7,4,4,5,6,0,10,0,3,41
+7,Audifonos Turtle Beach,4,3,6,2,4,7,1,7,4,5,43
+8,Audifonos Razer,6,2,5,3,6,2,3,8,6,1,42
+9,Bocina BOSE,7,10,2,7,3,3,4,7,2,2,47
+10,Bocina JBL,4,1,3,3,1,6,2,5,8,8,41
+11,Bocina SONY,2,2,5,4,6,4,1,9,4,4,41
+12,Amazon EchoDot,6,4,7,10,5,8,2,7,3,2,54
+13,Cable Auxiliar,5,4,8,5,7,5,5,4,6,4,53
+14,Blu-Ray SONY,1,4,3,7,4,2,3,6,4,6,40
+15,Blu Ray 4K ,2,6,2,4,1,3,2,7,3,1,31
+16,Blu-Ray LG,3,4,5,3,5,4,1,7,4,0,36
+17,Smart TV 32pu SONY ,8,3,6,7,10,5,2,11,6,4,62
+18,Smart TV 49pul SONY,4,3,2,4,12,2,3,15,3,2,50
+19,Android 55pul TVSony,2,2,4,6,10,2,2,13,4,8,53
+20,Smart TV 50pul Samsung,3,6,6,5,9,1,1,8,8,0,47
+21,Smart TV 32pul Samsung,4,2,8,4,8,4,2,9,6,3,50
+22,Smart 70pul TVSamsung,6,7,4,6,15,2,2,13,8,8,71
+23,Smart 43pul LG,1,8,6,5,12,3,1,14,2,5,57
+24,Smart TV 55pul LG,8,4,8,2,10,5,0,10,4,1,52
+25,NanoCell TV LG,9,2,5,4,17,6,1,15,3,1,63
+26,Cable HDMI UGREEN,7,6,4,2,10,4,2,9,4,1,49
+27,Cable HDMI Rankie,10,4,8,3,11,1,4,14,8,2,65
+28,iPhone XS,2,7,5,2,1,8,2,3,4,0,34
+29,iPhone XR,3,9,4,3,2,7,2,1,9,4,44
+30,iPhone 11,5,1,2,5,1,8,4,2,2,1,31
+31,Huawei Nova 5T,4,4,1,4,3,8,1,1,4,5,35
+32,Huawei P40 ,7,1,3,7,1,9,2,0,6,4,40
+33,Samsung Galaxy S20,6,5,2,9,1,7,3,2,8,2,45
+34,Samsung Falaxy Note 20,5,3,4,6,0,7,4,0,4,1,34
+35,Cargador Tipo C,4,9,4,4,3,10,2,7,2,4,49
+36,Cargador Micro-USB,7,5,5,5,2,8,3,6,8,2,51
+37,XBOX ONE,3,2,3,4,3,2,3,2,4,0,26
+38,XBOX ONE S,1,2,5,3,5,0,4,2,8,3,33
+39,XBOX ONE X,6,4,6,2,4,1,4,1,5,2,35
+40,Control XBOX,1,3,5,4,6,3,10,3,4,0,39
+41,Control Elite XBOX,2,3,3,4,1,2,5,0,5,8,33
+42,Tarjeta XBOX $1000MXN,4,8,10,6,5,5,2,6,2,4,52
+43,Suscripción GOLD 3 meses,2,1,12,3,8,2,4,5,1,7,45
+44,PlayStation 4,2,2,8,4,5,1,8,2,4,2,38
+45,PlayStation 4 Pro,2,1,6,6,4,3,5,3,6,7,43
+46,Dualshock 4,6,6,5,4,9,4,5,4,8,9,60
+47,Base de carga PS4,2,6,4,2,4,2,3,2,1,2,28
+48,PS Plus 12 meses,8,4,7,3,4,1,3,3,2,2,37
+49,Tarjeta PSN $50USD,2,2,6,5,1,4,4,5,2,4,35
